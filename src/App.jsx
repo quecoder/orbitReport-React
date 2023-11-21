@@ -4,6 +4,8 @@ import Table from './components/Table';
 import Banner from './components/Banner';
 import satData from './components/satData';
 
+// <link href="styling.css" rel="stylesheet" type="text/css" />
+
 
 function App() {
   const [sat, setSat] = useState(satData);
